@@ -36,7 +36,7 @@ end)
 local Title = Instance.new("TextLabel", Main)
 Title.Size = UDim2.new(1,0,0,50)
 Title.BackgroundTransparency = 1
-Title.Text = "🔒 SL HUB KEY SYSTEM"
+Title.Text = "🔒 SL HUB PAID KEY SYSTEM"
 Title.Font = Enum.Font.GothamBold
 Title.TextSize = 20
 Title.TextColor3 = Color3.fromRGB(255,255,255)
