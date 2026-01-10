@@ -5,7 +5,7 @@ local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
 
-local CORRECT_KEY = "SLONTOP"
+local CORRECT_KEY = "PAID31"
 local GET_KEY_LINK = "https://discord.gg/Pv89sBheF"
 
 getgenv().KEY_PASSED = false
